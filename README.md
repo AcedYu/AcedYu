@@ -7,9 +7,8 @@ mySQL, MongoDB, Handlebars, and React. I’m excited to leverage my skills and e
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AcedYu&layout=compact)
 
-## My Portfolio
+## My Credentials
 
 * [View Portfolio](https://acedyu.github.io/my-portfolio/)
-
-- [Link to Github](https://github.com/AcedYu)
-- [Link to LinkedIn](https://www.linkedin.com/in/alex-yu-3712811b9/)
+* [Link to Github](https://github.com/AcedYu)
+* [Link to LinkedIn](https://www.linkedin.com/in/alex-yu-3712811b9/)
