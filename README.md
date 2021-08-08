@@ -6,7 +6,7 @@ skills and transformed into a competent developer. I have attained mastery in HT
 mySQL, MongoDB, Handlebars, and React. I’m excited to leverage my skills and enter the world of web development.
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][https://visualstudio.microsoft.com/]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://visualstudio.microsoft.com/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AcedYu&layout=compact)
 
