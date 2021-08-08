@@ -16,7 +16,6 @@ mySQL, MongoDB, Handlebars, and React. I’m excited to leverage my skills and e
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_americas_footprint_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=14182626375_rlsa&gclid=CjwKCAjwgb6IBhAREiwAgMYKRubrG-z5GmDD3GMIEnQBValuI5b-7Q44BEyXcnaVp-VeTKG-g-0fyBoCQ4QQAvD_BwE)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AcedYu&layout=compact)
