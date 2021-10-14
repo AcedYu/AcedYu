@@ -23,5 +23,5 @@ I am a software developer with mastery in HTML, CSS, Javascript, jQuery, Node.js
 
 ## My Credentials
 
-* [View Portfolio](https://acedyu.github.io/my-portfolio/)
+* [View Portfolio](https://acedyu.github.io/Alex-Yu-Portfolio)
 * [Link to Github](https://github.com/AcedYu)
